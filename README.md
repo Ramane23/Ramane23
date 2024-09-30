@@ -28,9 +28,9 @@ I am a Machine Learning and Aeronautical Engineer passionate about building end-
 
 ## ⚙️ Tools & Technologies
 - **Languages**: Python, SQL, Bash
-- **Machine Learning**: Scikit-Learn, TensorFlow, PyTorch
-- **Data Engineering**: Pandas, NumPy, FastAPI, Hopsworks
-- **Deployment**: Docker, Kubernetes, AWS, Quix Cloud
+- **Machine Learning**: Scikit-Learn, TensorFlow, PyTorch, XGBOOST, LightGBM, CatBoost
+- **Data Engineering**: Pandas, NumPy, FastAPI, Hopsworks, Quixstreams, Bytewax
+- **Deployment**: Docker, Docker-compose, Kubernetes, AWS, Quix Cloud
 
 ## 📈 GitHub Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ramane23&theme=radical)](https://git.io/streak-stats)
