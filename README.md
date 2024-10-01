@@ -13,8 +13,16 @@ I am a Machine Learning and Aeronautical Engineer passionate about building end-
 ## 🛠 Skills and Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Docker Compose](https://img.shields.io/badge/-Docker_Compose-black?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+![Redpanda](https://img.shields.io/badge/-Redpanda-black?style=flat-square&logo=redpanda)
+![Bytewax](https://img.shields.io/badge/-Bytewax-black?style=flat-square&logo=bytewax)
+![QuixStreams](https://img.shields.io/badge/-QuixStreams-black?style=flat-square&logo=quixstreams)
+![Quix Cloud](https://img.shields.io/badge/-Quix_Cloud-black?style=flat-square&logo=quixcloud)
+![Hopsworks](https://img.shields.io/badge/-Hopsworks-black?style=flat-square&logo=hopsworks)
+
 
 ## 📊 GitHub Stats
 ![Ramane23's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramane23&show_icons=true&theme=radical)
