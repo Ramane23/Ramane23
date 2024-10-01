@@ -31,7 +31,7 @@ I am a Machine Learning and Aeronautical Engineer passionate about building end-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ramane23&theme=onedark)
 
 ## 📫 How to reach me
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souleymane-saidou-abouba/)](https://www.linkedin.com/in/souleymane-saidou-abouba/)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souleymane-saidou-abouba/)](https://www.linkedin.com/in/souleymane-saidou-abouba-1b49891a9/)
 - [Email Me](mailto:contactsouley@gmail.com)
 
 ## ⚙️ Tools & Technologies
